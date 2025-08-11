@@ -595,7 +595,7 @@
             }
         }
 
-        window.addEventListener('scroll', updateScrollEffects, { passive: true });
+        
 
         // Enhanced accessibility features
         function enhanceAccessibility() {
