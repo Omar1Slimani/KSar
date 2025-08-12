@@ -121,8 +121,8 @@
         }
 
         .cart-btn {
-            background: var(--pure-white);
-            color: var(--primary-black);
+            background: #1a1a1a;
+            color: #ffffff;
             border: none;
             padding: 0.875rem 1.75rem;
             border-radius: 6px;
@@ -341,8 +341,8 @@
 
         .add-to-cart-btn {
             width: 100%;
-            background: var(--pure-white);
-            color: var(--primary-black);
+            background: #d4af37;
+            color: #ffffff;
             border: none;
             padding: 1rem;
             border-radius: 6px;
@@ -365,9 +365,9 @@
         }
 
         .add-to-cart-btn:hover {
-            background: var(--accent-gold);
+            background: #0a0a0a;
             transform: translateY(-2px);
-            box-shadow: 0 8px 24px var(--shadow-dark);
+            box-shadow: 0 8px 24px #d4af37;
         }
 
         /* Content Sections */
